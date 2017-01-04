@@ -1,0 +1,16 @@
+			REPORTES EN JAVA 
+
+JasperReports
+añadir pluggin e instalar 
+http://plugins.netbeans.org/PluginPortal/faces/PluginDetailPage.jsp?pluginid=4425  - plugins netbeans iReport 
+
+libreriaas 
+añadir en librerias globales 
+https://sourceforge.net/projects/jasperreports/files/latest/download?source=typ_redirect
+
+
+
+titulos 
+validaciones 
+entrega de pedidos 
+n Incremento ? query  
